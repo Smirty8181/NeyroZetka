@@ -1,0 +1,16 @@
+# User-specific settings and workspace configuration
+config.json
+.vscode/
+
+# Build outputs
+/build/
+/dist/
+
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local logs and databases
+*.log
+*.db
