@@ -1,5 +1,7 @@
 # НейроЗетка
 
+[![Последний релиз](https://img.shields.io/github/v/release/Smirty8181/NeyroZetka?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=2ea44f)](https://github.com/Smirty8181/NeyroZetka/releases/latest)
+
 Автономная desktop-панель ИИ-соведущей на Python/PySide6. Озвучка выполняется внешним JeetBot: приложение отправляет короткие ответы от имени Twitch-бота в чат. Настройки хранятся в локальном `config.json` рядом с EXE, память — в `%APPDATA%\NeyroZetka\memory.db`. Конфигурация может содержать OAuth/API-токены и не должна публиковаться; `config.json`, настройки редактора и содержимое `build\` / `dist\` исключены из Git.
 
 ## Запуск
